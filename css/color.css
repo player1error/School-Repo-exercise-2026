@@ -1,0 +1,29 @@
+body{
+    background-color: #313f2c;
+
+    
+}
+.con{
+    margin: 0 auto;
+    width: 900px;
+    text-align: center;
+    margin-top: 5%;
+}
+h1 {
+    color: #f2f2f2;
+    
+}
+
+a{
+    border: none;
+    text-decoration: none; 
+}
+
+/* .text {
+    position: absolute;
+    right: 50%;
+} */
+
+.search-form{
+   margin-top: 10%;
+} 
